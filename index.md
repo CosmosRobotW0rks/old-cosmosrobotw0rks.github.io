@@ -47,7 +47,7 @@ Teknofest İnsansız Su Altı Sistemleri Turnuvası Üçüncülüğü
 (2020)
 ```
 
-### Our vision
+### Our Vision
 - Encourage young people's interest in science and technology to achieve greatness and to help them. 
 - Represent our country in the best way in every branch at home and abroad. 
 - Mustafa Kemal Atatürk's "If one day my words contradict with science, choose science." To be a team that advances with its promise, can convey the importance of science to its environment, keeps up with the times and maintains continuity on this path. 
